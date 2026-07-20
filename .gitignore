@@ -1,0 +1,5 @@
+# Public repo — ONLY the encrypted gate ships. Everything else stays local.
+*
+!.gitignore
+!docs/
+!docs/**
